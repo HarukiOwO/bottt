@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/HarukiOwO/storagebottt)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/HarukiOwO/bottt)
 
 <p align="center">
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
