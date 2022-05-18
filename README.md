@@ -1,5 +1,6 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/HarukiOwO/bottt)
 
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkred?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  
 <p align="center">
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
